@@ -1,0 +1,9 @@
+.style{
+	background-color:red;
+	border: 3px solid green;
+	width:200px;
+	height:300px;
+}
+.box6{
+	display:none;
+}

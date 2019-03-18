@@ -1,0 +1,17 @@
+tr td{
+	
+	border: 2px  solid  #334455; 
+	
+}
+
+.even{
+	background-color: pink;
+}
+.odd{
+	background-color: #aaccff;
+
+}
+.light{
+	background-color: white;
+
+}

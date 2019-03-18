@@ -1,0 +1,13 @@
+ul li{
+float:left;
+width:100px;
+
+}
+span.showmore{
+	background-color:#336655;
+	width:90px; 
+	display:block;
+	clear:both; 
+	
+
+}
